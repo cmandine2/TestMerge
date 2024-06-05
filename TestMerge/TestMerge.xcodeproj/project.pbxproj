@@ -16,8 +16,8 @@
 
 /* Begin PBXFileReference section */
 		42CE92472C10735600ABED85 /* TestMerge.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TestMerge.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		42CE924A2C10735600ABED85 /* TestMergeApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestMergeApp.swift; sourceTree = "<group>"; };
-		42CE924C2C10735600ABED85 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		42CE924A2C10735600ABED85 /* TestMergeApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = TestMergeApp.swift; path = TestMerge/TestMergeApp.swift; sourceTree = SOURCE_ROOT; };
+		42CE924C2C10735600ABED85 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = ContentView.swift; path = TestMerge/ContentView.swift; sourceTree = SOURCE_ROOT; };
 		42CE924E2C10735700ABED85 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		42CE92512C10735700ABED85 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		42CE92582C108C3C00ABED85 /* NewView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewView.swift; sourceTree = "<group>"; };
@@ -60,7 +60,7 @@
 				42CE92582C108C3C00ABED85 /* NewView.swift */,
 			);
 			path = TestMerge;
-			sourceTree = "<group>";
+			sourceTree = SOURCE_ROOT;
 		};
 		42CE92502C10735700ABED85 /* Preview Content */ = {
 			isa = PBXGroup;
